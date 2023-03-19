@@ -1,0 +1,77 @@
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\Practica3_Threads_9CM11.exe.config
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\Practica3_Threads_9CM11.exe
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\Practica3_Threads_9CM11.pdb
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.AssemblyReference.cache
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\obj\Debug\Practica3_Threads_9CM11.Credenciales.resources
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\obj\Debug\Practica3_Threads_9CM11.Form1.resources
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\obj\Debug\Practica3_Threads_9CM11.Properties.Resources.resources
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.GenerateResource.cache
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.CoreCompileInputs.cache
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\obj\Debug\Practica3_Threads_9CM11.exe
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\obj\Debug\Practica3_Threads_9CM11.pdb
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\DocumentFormat.OpenXml.dll
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\SpreadsheetLight.dll
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\System.Drawing.Common.dll
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\System.IO.Packaging.dll
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\DocumentFormat.OpenXml.xml
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\SpreadsheetLight.xml
+D:\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica3_Threads_9CM11\bin\Debug\System.IO.Packaging.xml
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\Practica3_Threads_9CM11.exe.config
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\Practica3_Threads_9CM11.exe
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\Practica3_Threads_9CM11.pdb
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\SpreadsheetLight.dll
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\System.IO.Packaging.dll
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\SpreadsheetLight.xml
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\bin\Debug\System.IO.Packaging.xml
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.Credenciales.resources
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.Form1.resources
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.Properties.Resources.resources
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.CopyComplete
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.exe
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\2do Parcial\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.pdb
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\Practica3_Threads_9CM11.exe.config
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\Practica3_Threads_9CM11.exe
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\Practica3_Threads_9CM11.pdb
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\SpreadsheetLight.dll
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\System.Drawing.Common.dll
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\System.IO.Packaging.dll
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\SpreadsheetLight.xml
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\bin\Debug\System.IO.Packaging.xml
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csprojAssemblyReference.cache
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.Credenciales.resources
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.Form1.resources
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.Properties.Resources.resources
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.GenerateResource.cache
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.CopyComplete
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.exe
+C:\Users\david\Downloads\Practica4_ThreadsSync_9CM11\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.pdb
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\Practica3_Threads_9CM11.exe.config
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\Practica3_Threads_9CM11.exe
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\Practica3_Threads_9CM11.pdb
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\SpreadsheetLight.dll
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\System.IO.Packaging.dll
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\SpreadsheetLight.xml
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\bin\Debug\System.IO.Packaging.xml
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.Credenciales.resources
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.Form1.resources
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.Properties.Resources.resources
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.csproj.CopyComplete
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.exe
+C:\Users\Usuario\Documents\9no Semestre\SIST. EN TIEMPO REAL\3er Parcial\PRACTICA 5\Practica4_ThreadsSync_9CM11\obj\Debug\Practica3_Threads_9CM11.pdb
