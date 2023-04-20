@@ -18,18 +18,18 @@
 
 
 <p align="center">
-  <a href="#dart-description">Description</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-roadmap">Roadmap</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#wrench-support">Support</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/AlexisCastro12" target="_blank">Author</a>
+  <a href="#dart-description">Descripción</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-roadmap">Guía</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Inicio</a> &#xa0; | &#xa0;
+  <a href="#wrench-support">Soporte</a> &#xa0; | &#xa0;
+  <a href="#memo-license">Licencia</a> &#xa0; | &#xa0;
+  <a href="https://github.com/AlexisCastro12" target="_blank">Autor</a>
 </p>
 
 <br>
 
-## :dart: Descripcion ##
+## :dart: Descripción ##
 
 Convertidor AD Multithreading WinForms es una aplicación programada mediante C# y el framework .NET (4.7) con Windows Forms en el entorno de desarrollo Visual Studio 2019 que aprovecha los conceptos de programación orientada a objetos y el multithreading (hilos multiplies) así como tambien herramientas externas al IDE como la paquetería office para generar y capturar de datos en tiempo real.
 
@@ -37,7 +37,7 @@ Este proyecto facilita el cálculo de mútliples convertidores análogico/digita
 
 Principalmente, esta aplicación es de gran utilidad para estudiantes de ingeniería que comiencen a adentrarse en el mundo del procesamiento de digital de señales. No obstante, sirve también como una guía para programadores que requieran aprender a capturar datos generados por una aplicacion WinForms en un archivo temporal de una manera sencilla.
 
-## :sparkles: Guia
+## :sparkles: Guía
 
 Las características con las que este proyecto cuenta actualmente son:
 
