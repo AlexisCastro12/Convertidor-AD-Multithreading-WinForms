@@ -75,9 +75,9 @@ Busca la carpeta en la ruta donde se clonó el repositorio, acceda a './bin/Debu
 
 Inicialmente, el voltaje esta en 0.0000 y los bits en 8 para todos los convertidores. Además, no esta activo ningún ciclo de conversión.
 
-Modifique los parametros como los necesite e inicie el ciclo de conversión con el boton 'Iniciar' en el momento que lo desee.
+Modifique los parámetros como los necesite e inicie el ciclo de conversión con el boton 'Iniciar' en el momento que lo desee.
 
-Existe un archivo excel precargado que tiene datos basura y es el que visualizaras si aun no inicia algún ciclo de conversión
+Existe un archivo excel precargado que tiene datos basura y es el que visualizará si aun no inicia algún ciclo de conversión
 
 
 ## :wrench: Support ##
