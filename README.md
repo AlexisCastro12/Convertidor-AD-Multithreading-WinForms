@@ -39,7 +39,7 @@ Principalmente, esta aplicación es de gran utilidad para estudiantes de ingenie
 
 ## :sparkles: Guía
 
-Las características con las que este proyecto cuenta actualmente son:
+Actualmente, las características con las que este proyecto cuenta son:
 
 :heavy_check_mark: Una interfaz gráfica con Radiobuttons para seleccionar el numero de bits para representar un dato y con Textboxes que únicamente permiten entradas numéricas para ingresar el voltaje de entrada que se desea convertir.
 
