@@ -43,7 +43,7 @@ Currently, the features that this project has are:
 
 :heavy_check_mark: A graphical interface with Radiobuttons to select the number of bits to represent a data and with Textboxes that only allow numeric entries to enter the input voltage to be converted.
 
-heavy_check_mark: There is a button to start and end the conversion process. Each process is a complete cycle.
+:heavy_check_mark: There is a button to start and end the conversion process. Each process is a complete cycle.
 
 :heavy_check_mark: It is possible to modify the input data (bits and voltage) before, during and after each conversion cycle. However, only the data that was present after the start and before the end of the process is captured.
 
