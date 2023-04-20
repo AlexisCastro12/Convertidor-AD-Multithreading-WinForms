@@ -29,7 +29,7 @@
 
 <br>
 
-## :dart: Description ##
+## :dart: Descripcion ##
 
 Convertidor AD Multithreading WinForms es una aplicación programada mediante C# y el framework .NET (4.7) con Windows Forms en el entorno de desarrollo Visual Studio 2019 que aprovecha los conceptos de programación orientada a objetos y el multithreading (hilos multiplies) así como tambien herramientas externas al IDE como la paquetería office para generar y capturar de datos en tiempo real.
 
@@ -37,7 +37,7 @@ Este proyecto facilita el cálculo de mútliples convertidores análogico/digita
 
 Principalmente, esta aplicación es de gran utilidad para estudiantes de ingeniería que comiencen a adentrarse en el mundo del procesamiento de digital de señales. No obstante, sirve también como una guía para programadores que requieran aprender a capturar datos generados por una aplicacion WinForms en un archivo temporal de una manera sencilla.
 
-## :sparkles: Roadmap
+## :sparkles: Guia
 
 Las características con las que este proyecto cuenta actualmente son:
 
@@ -59,11 +59,11 @@ El objetivo inicial de este proyecto es aplicar el concepto de multithreading en
 
 :pushpin: Cada usuario decide si la información de salida debe ir en un solo documento excel o en archivos separados.
 
-## :white_check_mark: Requirements
+## :white_check_mark: Requisitos
 
 Antes de comenzar :checkered_flag:, es necesario tener instalado [Git](https://git-scm.com).
 
-## :checkered_flag: Starting
+## :checkered_flag: Inicio
 
 ```bash
 # Clone this project
@@ -80,11 +80,11 @@ Modifique los parámetros como los necesite e inicie el ciclo de conversión con
 Existe un archivo excel precargado que tiene datos basura y es el que visualizará si aun no inicia algún ciclo de conversión
 
 
-## :wrench: Support ##
+## :wrench: Soporte ##
 
 Si tiene problemas con el proyecto o necesita información adiciona, por favor contactame <alexis1204.aacs@gmail.com> :e-mail:.
 
-## :memo: License ##
+## :memo: Licencia ##
 
 Este proyecto esta bajo la Licencia MIT. Para mas detalles, vea el archivo [LICENSE](LICENSE).
 
@@ -93,4 +93,4 @@ Hecho con :heart: por <a href="https://github.com/AlexisCastro12" target="_blank
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">regresar</a>
