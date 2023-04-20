@@ -86,7 +86,7 @@ Si tiene problemas con el proyecto o necesita información adiciona, por favor c
 
 ## :memo: License ##
 
-Este proyecto esta bajo la Licencia MIT. Para mas detalles, vea el archivo de [LICENSE](LICENSE).
+Este proyecto esta bajo la Licencia MIT. Para mas detalles, vea el archivo [LICENSE](LICENSE).
 
 
 Hecho con :heart: por <a href="https://github.com/AlexisCastro12" target="_blank">AlexisCastro12</a>
