@@ -63,6 +63,8 @@ The initial objetive of this project is to apply the concept of multithreading i
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) installed.
 
+Remember that the application can only be run on Windows OS :computer:.
+
 ## :checkered_flag: Starting
 
 ```bash
