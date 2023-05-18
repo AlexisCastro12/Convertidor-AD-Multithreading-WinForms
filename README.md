@@ -51,6 +51,8 @@ Currently, the characteristics that this project has are:
 
 :heavy_check_mark: Each time you start a conversion cycle the excel file is overwritten and the data from the previous cycle is lost.
 
+:heavy_check_mark:There is a window that pops up with the developer's credentials in the "Archivo" tab under the "Firma" option. To close it just click on any image or text inside it.
+
 The initial objetive of this project is to apply the concept of multithreading in programming and learn how to capture data generated in real time for further analysis. So far, this task has been accomplished, however there are many areas of opportunity to scale this application and give it greater functionality. Some proposals for future enhancements are:
 
 :pushpin: Create an interface to receive real analog signals from an external circuit through a computer port.
