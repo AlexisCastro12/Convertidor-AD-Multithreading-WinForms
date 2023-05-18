@@ -59,7 +59,7 @@ The initial objetive of this project is to apply the concept of multithreading i
 
 :pushpin: Each user decides whether the output data should be in a single excel document or in separate files.
 
-# :mag_right: Remarks
+### :mag_right: Remarks
 
 There is a window that pops up with the developer's credentials in the "Archivo" tab under the "Firma" option. To close it just click on any image or text inside it.
 
