@@ -61,7 +61,7 @@ The initial objetive of this project is to apply the concept of multithreading i
 
 ### :mag_right: Remarks
 
-There is a window that pops up with the developer's credentials in the "Archivo" tab under the "Firma" option. To close it just click on any image or text inside it.
+:bell: There is a window that pops up with the developer's credentials in the "Archivo" tab under the "Firma" option. To close it just click on any image or text inside it.
 
 You can remove the credentials by deleting the application "Castro.exe" from the "/bin/debug" directory. You must also delete the control and the event that triggers its opening, these are located in the source code of the main form.
 
